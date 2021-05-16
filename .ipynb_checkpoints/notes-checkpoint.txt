@@ -1,0 +1,2 @@
+KNN / SVD
+svd = signular Value decomposition
